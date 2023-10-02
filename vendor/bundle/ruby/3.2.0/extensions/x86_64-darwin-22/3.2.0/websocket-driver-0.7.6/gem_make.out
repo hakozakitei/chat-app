@@ -1,0 +1,20 @@
+current directory: /Users/kudoushinya/projects/chat-app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/Users/kudoushinya/.rbenv/versions/3.2.0/bin/ruby -I /Users/kudoushinya/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/kudoushinya/projects/chat-app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231001-2181-g8sb2k sitelibdir\=./.gem.20231001-2181-g8sb2k clean
+
+current directory: /Users/kudoushinya/projects/chat-app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231001-2181-g8sb2k sitelibdir\=./.gem.20231001-2181-g8sb2k
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/kudoushinya/projects/chat-app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231001-2181-g8sb2k sitelibdir\=./.gem.20231001-2181-g8sb2k install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20231001-2181-g8sb2k
+
+current directory: /Users/kudoushinya/projects/chat-app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231001-2181-g8sb2k sitelibdir\=./.gem.20231001-2181-g8sb2k clean
