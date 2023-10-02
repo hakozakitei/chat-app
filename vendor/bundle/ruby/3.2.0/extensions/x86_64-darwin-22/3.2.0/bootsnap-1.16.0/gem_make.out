@@ -1,0 +1,20 @@
+current directory: /Users/kudoushinya/projects/chat-app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+/Users/kudoushinya/.rbenv/versions/3.2.0/bin/ruby -I /Users/kudoushinya/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/kudoushinya/projects/chat-app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231001-2181-phh27l sitelibdir\=./.gem.20231001-2181-phh27l clean
+
+current directory: /Users/kudoushinya/projects/chat-app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231001-2181-phh27l sitelibdir\=./.gem.20231001-2181-phh27l
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/kudoushinya/projects/chat-app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231001-2181-phh27l sitelibdir\=./.gem.20231001-2181-phh27l install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20231001-2181-phh27l/bootsnap
+
+current directory: /Users/kudoushinya/projects/chat-app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231001-2181-phh27l sitelibdir\=./.gem.20231001-2181-phh27l clean
